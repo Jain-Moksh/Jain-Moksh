@@ -21,7 +21,3 @@ I am currently exploring advanced topics in machine learning and artificial inte
 - **LinkedIn:** [Moksh Jain](https://www.linkedin.com/in/moksh-jain-394b922ab)
 
 Feel free to connect with me to discuss technology, projects, or collaboration opportunities!
-
-## 📈 GitHub Stats
-
-![Moksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokshjain&show_icons=true&theme=radical)

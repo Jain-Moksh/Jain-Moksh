@@ -23,9 +23,17 @@
 <br/>
 
 <div align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=6366F1)](https://github.com/Jain-Moksh?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=EAB308)](https://github.com/Jain-Moksh?tab=repositories)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Jain-Moksh&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge)](https://github.com/Jain-Moksh)
+<div align="center">
+  <a href="https://github.com/Jain-Moksh?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=6366F1" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Jain-Moksh?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=EAB308" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/Jain-Moksh">
+    <img src="https://komarev.com/ghpvc/?username=Jain-Moksh&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
 </div>
 
 <br/>
@@ -77,9 +85,26 @@ moksh.say_hi()
 
 ```
 🏆 Hackathons Won: Multiple           📊 Projects Built: 50+
-⭐ Open Source PRs: 30+               ☕ Coffee Consumed: ∞
-🐛 Bugs Fixed: Too Many to Count
+⭐ GitHub Stars: Growing              🤝 Open Source PRs: 30+
+☕ Coffee Consumed: ∞                 🐛 Bugs Fixed: Too Many to Count
 ```
+
+<br/>
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jain-Moksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EAB308&text_color=C9D1D9&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jain-Moksh&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EAB308&currStreakLabel=C9D1D9" height="180" alt="streak" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Moksh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=10&hide=jupyter%20notebook" height="180" alt="languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jain-Moksh&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="trophies" />
+</div>
+
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jain-Moksh&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=EAB308&point=C9D1D9&area_color=6366F1&area=true&hide_border=true" width="100%" alt="activity" />
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">

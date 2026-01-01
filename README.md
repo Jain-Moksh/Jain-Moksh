@@ -1,5 +1,6 @@
-<div align="center" style="margin-bottom: -60px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EAB308&height=180&section=header&text=Moksh%20Jain%20%7C%20Full%20Stack%20%26%20AI%20Engineer%20%F0%9F%91%8B&fontSize=48&fontColor=fff&fontAlignY=50" width="100%" />
+<div align="center" style="position: relative; margin-bottom: -80px;">
+  <!-- Capsule Background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Hey!%20I'm%20Moksh%20Jain%20👋&fontSize=60&fontColor=fff&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">

@@ -1,39 +1,31 @@
-<div align="center" style="position: relative; margin-bottom: -80px;">
-  <!-- Capsule Background -->
-<img
- src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Hey!%20I'm%20Moksh%20Jain%20👋&fontSize=60&fontColor=fff&fontAlignY=38"
- width="100%"
-/>
+<div align="center" style="margin-bottom: -60px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:EAB308&height=180&section=header&text=Moksh%20Jain%20%7C%20Full%20Stack%20%26%20AI%20Engineer%20%F0%9F%91%8B&fontSize=48&fontColor=fff&fontAlignY=50" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=38&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=60&lines=FULL+STACK+%26+DATA+SCIENCE+ENGINEER+💻;AI+%2F+ML+ENTHUSIAST+🤖;HACKATHON+WINNER+🏆;OPEN+SOURCE+CONTRIBUTOR+⭐;PROBLEM+SOLVER+🧠" alt="Typing SVG" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3500&pause=1200&color=EAB308&center=true&vCenter=true&width=650&height=55&lines=Full+Stack+%26+AI+Engineer+%F0%9F%92%BB;Open+Source+%7C+Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%7C+UI%2FUX+Lover+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; padding: 0 5%; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Wizard" width="100" />
+<div align="center" style="margin: 18px 0;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="110" style="border-radius: 18px; box-shadow: 0 2px 12px #6366F1;" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="60" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="60" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="110" style="border-radius: 18px; box-shadow: 0 2px 12px #EAB308;" />
 </div>
 
 <br/>
 
-<div align="center">
-<div align="center">
+<div align="center" style="margin: 18px 0;">
   <a href="https://github.com/Jain-Moksh?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=6366F1" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Jain-Moksh?style=flat-square&logo=github&logoColor=white&labelColor=282828&color=6366F1" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Jain-Moksh?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=EAB308" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/Jain-Moksh?style=flat-square&logo=github&logoColor=white&labelColor=282828&color=EAB308" alt="GitHub stars" />
   </a>
   <a href="https://github.com/Jain-Moksh">
-    <img src="https://komarev.com/ghpvc/?username=Jain-Moksh&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Jain-Moksh&label=PROFILE+VIEWS&color=6366F1&style=flat-square" alt="Profile Views" />
   </a>
-</div>
 </div>
 
 <br/>
@@ -41,7 +33,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Moksh Jain
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" style="border-radius: 24px; box-shadow: 0 2px 16px #6366F1; margin-left: 18px;">
 
 ```python
 class MokshJain:

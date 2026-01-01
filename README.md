@@ -1,6 +1,9 @@
-<div align="center" style="position: relative; margin-bottom: -80px;">
-  <!-- Capsule Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Hey!%20I'm%20Moksh%20Jain%20👋&fontSize=60&fontColor=fff&fontAlignY=38" width="100%" />
+<div style="width:100%;height:18px;background:linear-gradient(90deg,#6366F1,#EAB308);margin-bottom:24px;border-radius:0 0 12px 12px;"></div>
+<div align="center" style="margin-bottom: 24px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=48&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=Moksh+Jain+%7C+Full+Stack+%26+AI+Engineer+%F0%9F%91%8B" alt="SVG Heading" />
+</div>
+<div align="center" style="margin-bottom: 24px;">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="180" style="border-radius: 50%; box-shadow: 0 2px 16px #6366F1; border: 4px solid #EAB308;" alt="Moksh Jain Profile" />
 </div>
 
 <div align="center" style="margin-top: 10px;">

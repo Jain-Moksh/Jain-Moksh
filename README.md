@@ -1,109 +1,185 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,10,14&height=220&section=header&text=Hi!%20I'm%20Moksh%20Jain%20👋&fontSize=56&fontColor=ffffff&fontAlignY=40" width="100%"/>
+<div align="center" style="position: relative; margin-bottom: -80px;">
+  <!-- Capsule Background -->
+<img
+ src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Hey!%20I'm%20Moksh%20Jain%20👋&fontSize=60&fontColor=fff&fontAlignY=38"
+ width="100%"
+/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=720&height=55&lines=FULL+STACK+DEVELOPER;DATA+SCIENCE+%26+ML+ENGINEER;HACKATHON+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=38&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=60&lines=FULL+STACK+%26+DATA+SCIENCE+ENGINEER+💻;AI+%2F+ML+ENTHUSIAST+🤖;HACKATHON+WINNER+🏆;OPEN+SOURCE+CONTRIBUTOR+⭐;PROBLEM+SOLVER+🧠" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center" style="display: flex; justify-content: space-evenly; align-items: center; padding: 0 5%; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Wizard" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" />
 </div>
 
 <br/>
 
 <div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge)
-
+  [![GitHub followers](https://img.shields.io/github/followers/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=6366F1)](https://github.com/Jain-Moksh?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/Jain-Moksh?style=for-the-badge&logo=github&logoColor=white&labelColor=282828&color=EAB308)](https://github.com/Jain-Moksh?tab=repositories)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Jain-Moksh&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge)](https://github.com/Jain-Moksh)
 </div>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 👨‍💻 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Moksh Jain
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 ```python
 class MokshJain:
     def __init__(self):
+        self.username = "Jain-Moksh"
         self.role = "Full Stack & Data Science Engineer"
-        self.education = "B.E. Data Science @ D.J. Sanghvi"
-        self.background = "Diploma in Computer Science"
-        self.focus = [
-            "Data Analysis",
-            "MERN Stack Applications",
-            "Machine Learning",
-            "Explainable AI"
+        self.location = "Mumbai, India 🇮🇳"
+        self.education = [
+            "B.E. in Data Science, D.J. Sanghvi College of Engineering",
+            "Diploma in Computer Science, K.J. Somaiya Polytechnic"
         ]
+        self.current_focus = [
+            "Full Stack Web Development",
+            "Data Analysis & Machine Learning",
+            "Explainable AI (XAI)",
+            "Scalable System Design"
+        ]
+        self.hackathon_wins = "Multiple"
+        self.languages = ["English", "हिंदी", "Code"]
+        self.quote = "Consistency beats intensity."
 
-    def mission(self):
-        return "Turning ideas into scalable, real-world solutions"
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something epic together!")
+
+    def current_mission(self):
+        return "Building real-world AI products & clean UI/UX"
 
 moksh = MokshJain()
-print(moksh.mission())
+moksh.say_hi()
 ```
+
+### 🎯 Current Quests
+
+- 🤖 **Building:** Real-world AI products, Scalable Systems
+- 🎓 **Learning:** Advanced System Design, Explainable AI
+- 🤝 **Collaborating:** Open Source & Hackathons
+- 💡 **Exploring:** Clean UI/UX, Competitive Coding
+- ⚡ **Achievement Unlocked:** Multiple Hackathon Wins!
 
 ### 🏅 Quick Stats
 
-| Category | Detail | Category | Detail |
-| :--- | :--- | :--- | :--- |
-| 🏆 **Hackathons Won** | Multiple | 📊 **Projects Built** | 40+ |
-| ⭐ **GitHub Stars** | Growing | 🤝 **Open Source PRs** | 30+ |
-| ☕ **Coffee Consumed** | ∞ | 🐛 **Bugs Fixed** | Too Many |
+```
+🏆 Hackathons Won: Multiple           📊 Projects Built: 50+
+⭐ Open Source PRs: 30+               ☕ Coffee Consumed: ∞
+🐛 Bugs Fixed: Too Many to Count
+```
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🛠️ Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
 ### 💻 Languages & Core
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,php&theme=dark" />
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,html,css&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,php&theme=dark" />
+</p>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql,prisma&theme=dark" />
+### 🎨 Frontend Magic
 
-### 🤖 AI / ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" /> 
-<br/> 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" />
+</p>
+
+### ⚙️ Backend Powerhouse
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" />
+</p>
+
+### 🤖 AI/ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
 ### 🗄️ Databases & Caching
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase&theme=dark" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase&theme=dark" />
+</p>
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,nginx&theme=dark" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx&theme=dark" />
+</p>
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,linux,ubuntu,bash,postman,figma&theme=dark" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,bash,postman,figma&theme=dark" />
+</p>
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180" /> 
-</div>
-
----
-
-## 🏆 Highlights
-
-*   🥇 **Winner** – AI Eduthon, IIT Bombay Techfest
-*   🎯 **Organizer** – 24-Hour Hackathon (HackNiche)
-*   🧠 **Research Paper** published on AI (IJSREM)
-*   🤝 **Open Source Contributor**
 
 <br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,6,2&height=90&section=footer" width="100%" />
+## <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30" /> Connect With Me
 
-> “Consistency beats intensity.”
+<div align="center">
+<a href="https://github.com/Jain-Moksh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/moksh-jain/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mokshjain@example.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/jain_moksh">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+</div>
+
+## 💬 Let's Build Something Amazing Together!
+
+<div align="left">
+  
+**Open for:**
+- 🤝 Collaborations on AI/ML Projects
+- 💼 Freelance Opportunities
+- 🎤 Speaking Engagements
+- 📚 Technical Writing
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+**"Consistency beats intensity."**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+⭐ **From [Jain-Moksh](https://github.com/Jain-Moksh)** ⭐
 
 </div>

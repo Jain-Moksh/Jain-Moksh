@@ -41,7 +41,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Moksh Jain
 
-<img align="right" src="https://miro.medium.com/v2/1*yw0TnheAGN-LPneDaTlaxw.gif" width="400" alt="Full Stack Developer at Desk">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 ```python
 class MokshJain:
@@ -92,7 +92,7 @@ moksh.say_hi()
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Tech Stack
 
 <div align="center">
 

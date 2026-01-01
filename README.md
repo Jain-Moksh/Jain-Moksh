@@ -1,64 +1,117 @@
-# Hi there, I'm Moksh Jain 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,6,10,14&height=220&section=header&text=Hi!%20I'm%20Moksh%20Jain%20👋&fontSize=56&fontColor=ffffff&fontAlignY=40" width="100%"/>
+</div>
 
-🎓 Data Science Undergrad at DJ Sanghvi | 💻 Full Stack & AI Enthusiast | 📍 Mumbai, India
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=720&height=55&lines=FRONTEND+%26+FULL+STACK+DEVELOPER;DATA+SCIENCE+%26+ML+ENTHUSIAST;HACKATHON+ORGANIZER+%26+LEADER;OPEN+SOURCE+CONTRIBUTOR" />
+</div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<div align="center">
 
-I'm a passionate developer who thrives on building impactful tech solutions. With hands-on experience in full stack development, AI integrations, and data analysis, I love turning innovative ideas into real-world applications.
+![GitHub followers](https://img.shields.io/github/followers/MokshJain?style=for-the-badge\&labelColor=0f172a\&color=22c55e)
+![GitHub stars](https://img.shields.io/github/stars/MokshJain?style=for-the-badge\&labelColor=0f172a\&color=f59e0b)
+![Profile Views](https://komarev.com/ghpvc/?username=MokshJain\&label=PROFILE+VIEWS\&color=22c55e\&style=for-the-badge)
 
-- 🔭 Currently working at **Senkusha Solutions** as a Full Stack Developer Intern
-- 🌱 Actively contributing to open source and exploring **Explainable AI**, **ResumeTech**, and **DataViz**
-- 💡 Believer in tech-for-good, clean UI, and scalable systems
-- 💬 Ask me about **React.js**, **Tailwind CSS**, **Node.js**, or **Python-Flask** integration
-
----
-
-### 🚀 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+</div>
 
 ---
 
-### 🌟 Highlight Projects
+## 👨‍💻 About Me
 
-#### 🚀 [Hustl-Brainrot](https://github.com/Jain-Moksh/Hustl-Brainrot)
-> A full-stack Generative AI-powered platform connecting job seekers to recruiters with resume analysis, AI mock interviews & smart scoring.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
 
-#### 📚 [EduSync](https://edusync.netlify.app/)
-> A dynamic e-learning platform with personalized modules, gamified quizzes, and real-time analytics.
+```python
+class MokshJain:
+    def __init__(self):
+        self.role = "Full Stack & Data Science Engineer"
+        self.education = "B.E. Data Science @ D.J. Sanghvi"
+        self.background = "Diploma in Computer Science"
+        self.focus = [
+            "Data Analysis",
+            "MERN Stack Applications",
+            "Machine Learning",
+            "Explainable AI"
+        ]
+        self.values = ["Clean UI", "Scalable Code", "Continuous Learning"]
 
-#### 📊 Resume Analyzer | Senkusha Solutions
-> Built with React and Python, it gives instant resume insights and enhancement suggestions using AI and parsing logic.
+    def mission(self):
+        return "Build impactful products by blending data, design, and logic"
+
+moksh = MokshJain()
+print(moksh.mission())
+```
+
+### 🚀 What I'm Doing
+
+* 💻 Building responsive full‑stack web apps
+* 📊 Working on ML & data analysis projects
+* 🏆 Participating & leading hackathon teams
+* 🌱 Learning Flask, cloud deployment & system design
 
 ---
 
-### 🏆 Achievements
+## 🧰 Tech Stack
 
-- 🥈 1st Runner-Up @ Technothon 2024 – Built a real-time MERN solution in 24 hrs
-- 🌟 Star Intern (3×) @ Senkusha Solutions
-- 🧠 Top 200 out of 2400+ at DIPEX 2024
-- 📜 AWS Academy Cloud Foundations Certified
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask&theme=dark" />
+
+### Data Science & ML
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,vercel,render&theme=dark" />
 
 ---
 
-### 🤝 Let's Connect
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/moksh-jain-362998254/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Jain-Moksh)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Jain-Moksh/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://x.com/Mokshjain004)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MokshJain&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MokshJain&theme=github-dark&hide_border=true" height="170" />
+</div>
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+## 🏆 Highlights
+
+* 🥇 Winner – AI Eduthon, IIT Bombay Techfest
+* 🎯 Organized 24‑hour Hackathon (HackNiche)
+* 🧠 Research Paper published on ChatGPT (IJSREM)
+* 🤝 Contributor to Open Source & Social Winter of Code
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/moksh-jain/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:mokshjain@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+</a>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,6,2&height=90&section=footer" width="100%" />
+
+**"Simple code. Strong logic. Real impact."**
+
+</div>
